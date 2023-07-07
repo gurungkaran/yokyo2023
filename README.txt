@@ -40,7 +40,7 @@ For the admin login:
 localhost:4433/yokyo/admin
 
 To view demonstration of yokyo 2023 website and more details refer to this youtube video with clear explanation
-<link>
+https://youtu.be/Knm11KOIRq4
 
 Thank you!
 
